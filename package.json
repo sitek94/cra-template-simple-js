@@ -1,0 +1,19 @@
+{
+  "name": "cra-template-simple-js",
+  "version": "1.0.0",
+  "description": "A template with already removed React boilerplate.",
+  "author": "Maciek Sitkowski",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
